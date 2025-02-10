@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{652D2F8A-5814-428F-AB30-104C00DDBECA}|DiccionarioClientConsole\\DiccionarioClientConsole.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioclientconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652D2F8A-5814-428F-AB30-104C00DDBECA}|DiccionarioClientConsole\\DiccionarioClientConsole.csproj|solutionrelative:diccionarioclientconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|solutionrelative:diccionarioservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioservice\\repositories\\conceptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|solutionrelative:diccionarioservice\\repositories\\conceptorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioservice\\service\\conceptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|solutionrelative:diccionarioservice\\service\\conceptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioservice\\models\\diccionariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|solutionrelative:diccionarioservice\\models\\diccionariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|solutionrelative:diccionarioservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioservice\\models\\concepto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|solutionrelative:diccionarioservice\\models\\concepto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioservice\\diccionarioservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{60E2B13C-57E2-480D-80C5-2078E8680D26}|DiccionarioService\\DiccionarioService.csproj|solutionrelative:diccionarioservice\\diccionarioservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652D2F8A-5814-428F-AB30-104C00DDBECA}|DiccionarioClientConsole\\DiccionarioClientConsole.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioclientconsole\\diccionarioclientconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{652D2F8A-5814-428F-AB30-104C00DDBECA}|DiccionarioClientConsole\\DiccionarioClientConsole.csproj|solutionrelative:diccionarioclientconsole\\diccionarioclientconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DiccionarioClientDesktop||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652D2F8A-5814-428F-AB30-104C00DDBECA}|DiccionarioClientConsole\\DiccionarioClientConsole.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioclientconsole\\dto\\conceptodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652D2F8A-5814-428F-AB30-104C00DDBECA}|DiccionarioClientConsole\\DiccionarioClientConsole.csproj|solutionrelative:diccionarioclientconsole\\dto\\conceptodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD81F79-DA18-4873-AF18-63200D34DFB5}|DiccionarioClientDesktop\\DiccionarioClientDesktop.csproj|C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\diccionarioclientdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCD81F79-DA18-4873-AF18-63200D34DFB5}|DiccionarioClientDesktop\\DiccionarioClientDesktop.csproj|solutionrelative:diccionarioclientdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD81F79-DA18-4873-AF18-63200D34DFB5}|DiccionarioClientDesktop\\DiccionarioClientDesktop.csproj|c:\\users\\pault\\desktop\\diccionarioservices\\diccionarioservice\\diccionarioclientdesktop\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConceptoService.cs",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Service\\ConceptoService.cs",
+              "RelativeDocumentMoniker": "DiccionarioService\\Service\\ConceptoService.cs",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Service\\ConceptoService.cs",
+              "RelativeToolTip": "DiccionarioService\\Service\\ConceptoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:55:20.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConceptoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Repositories\\ConceptoRepository.cs",
+              "RelativeDocumentMoniker": "DiccionarioService\\Repositories\\ConceptoRepository.cs",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Repositories\\ConceptoRepository.cs",
+              "RelativeToolTip": "DiccionarioService\\Repositories\\ConceptoRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:44:04.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Program.cs",
+              "RelativeDocumentMoniker": "DiccionarioService\\Program.cs",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Program.cs",
+              "RelativeToolTip": "DiccionarioService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:47:35.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiccionarioDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Models\\DiccionarioDBContext.cs",
+              "RelativeDocumentMoniker": "DiccionarioService\\Models\\DiccionarioDBContext.cs",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Models\\DiccionarioDBContext.cs",
+              "RelativeToolTip": "DiccionarioService\\Models\\DiccionarioDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:05:33.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientConsole\\Program.cs",
+              "RelativeDocumentMoniker": "DiccionarioClientConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientConsole\\Program.cs",
+              "RelativeToolTip": "DiccionarioClientConsole\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwDkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:50:28.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\appsettings.json",
+              "RelativeDocumentMoniker": "DiccionarioService\\appsettings.json",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\appsettings.json",
+              "RelativeToolTip": "DiccionarioService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T09:23:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Concepto.cs",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Models\\Concepto.cs",
+              "RelativeDocumentMoniker": "DiccionarioService\\Models\\Concepto.cs",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\Models\\Concepto.cs",
+              "RelativeToolTip": "DiccionarioService\\Models\\Concepto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:03:50.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiccionarioService",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\DiccionarioService.csproj",
+              "RelativeDocumentMoniker": "DiccionarioService\\DiccionarioService.csproj",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioService\\DiccionarioService.csproj",
+              "RelativeToolTip": "DiccionarioService\\DiccionarioService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T09:25:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiccionarioClientConsole",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientConsole\\DiccionarioClientConsole.csproj",
+              "RelativeDocumentMoniker": "DiccionarioClientConsole\\DiccionarioClientConsole.csproj",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientConsole\\DiccionarioClientConsole.csproj",
+              "RelativeToolTip": "DiccionarioClientConsole\\DiccionarioClientConsole.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T09:19:04.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiccionarioClientDesktop",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientDesktop\\DiccionarioClientDesktop.csproj",
+              "RelativeDocumentMoniker": "DiccionarioClientDesktop\\DiccionarioClientDesktop.csproj",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientDesktop\\DiccionarioClientDesktop.csproj",
+              "RelativeToolTip": "DiccionarioClientDesktop\\DiccionarioClientDesktop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-10T09:11:54.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConceptoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientConsole\\DTO\\ConceptoDTO.cs",
+              "RelativeDocumentMoniker": "DiccionarioClientConsole\\DTO\\ConceptoDTO.cs",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientConsole\\DTO\\ConceptoDTO.cs",
+              "RelativeToolTip": "DiccionarioClientConsole\\DTO\\ConceptoDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:58:18.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "DiccionarioClientDesktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\pault\\Desktop\\DiccionarioServices\\DiccionarioService\\DiccionarioClientDesktop\\Form1.cs [Design]",
+              "RelativeToolTip": "DiccionarioClientDesktop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:50:57.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
